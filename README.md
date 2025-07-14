@@ -32,6 +32,10 @@ Each model was evaluated using:
 | Linear Regression| 0.68     | 2.0e+8  | 3.0e+8 |
 
 ✅ Best performance: **Random Forest** and **XGBoost**
+## 📊 Model Comparison
+
+The following bar chart shows the R² score of the best-performing models in predicting house prices in Tehran:
+<img width="2000" height="1200" alt="model_comparison_r2_real" src="https://github.com/user-attachments/assets/6ec9748c-acce-426e-9b3f-4ce5150c9e3b" />
 
 ## 📌 Tools Used
 - Python
